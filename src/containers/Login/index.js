@@ -103,7 +103,6 @@ const Login = props => {
           <ActivityIndicator
             size="large"
             color="#ffffff"
-            // style={{width: 160, height: 160}}
             size={windowWidth * 0.3146}
           />
         </View>
